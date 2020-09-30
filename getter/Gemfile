@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "httparty"
+gem "pokeloc_parser"
 
 ruby '~> 2.7.0'

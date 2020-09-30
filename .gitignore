@@ -1,4 +1,6 @@
 /package-template.yml
+/getter/vendor
+/getter/.bundle
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 
